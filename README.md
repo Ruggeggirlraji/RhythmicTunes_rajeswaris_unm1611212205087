@@ -114,17 +114,23 @@ The frontend will be available on **http://localhost:5173**.
 
 ---
 
-## 🤝 Contributors
+🤝 Contributors
+
 Special thanks to all the team members for their contributions!
 
-📌 **Team Leader:** RAJESWARI S  
-📌 **Developers:** SHALINI S, SNEHA R, SUJITHA M
+RAJESWARI S - buzzmeraji@gmail.com
+
+SHALINI S - sathyashalini812@gmail.com
+
+SNEHA R - sneharamesh883@gmail.com
+
+SUJITHA M - sujithas550@gmail.com
 
 ---
 
 ## 📞 Contact & Support
 For any queries, reach out to us via:
-- **Email:** (Add your team email here)
+- **Email:** buzzmeraji@gmail.com 
 - **GitHub Issues:** [GitHub Repository](https://github.com/Ruggeggirlraji/RhythmicTunes_rajeswaris_unm1611212205087/issues)
 
 ---
