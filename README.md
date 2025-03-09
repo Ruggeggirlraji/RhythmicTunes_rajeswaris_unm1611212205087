@@ -2,8 +2,7 @@
 
 ## 📌 Project Details
 **Task Assigned by:** Naan Mudhalvan (SmartBridge Initiative)  
-**Project Name:** RhythmicTunes - A Music Streaming Web Application  
-**Team ID:** SWTID1741279248153858  
+**Project Name:** RhythmicTunes - A Music Streaming Web Application   
 **Team Size:** 4 Members
 
 ### 👥 Team Members
