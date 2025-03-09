@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Your Eyes",
+      "singer": "Barney sku",
+      "genre": "Lofi",
+      "imgUrl": "/picture/your eyes.jpg",
+      "songUrl": "/Songs/Your Eyes.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Badass",
+      "singer": "Anirudh Ravichander",
+      "genre": "Rock",
+      "imgUrl": "/picture/badass.jpg",
+      "songUrl": "/Songs/Leo - Badass.mp3"
+    },
+    {
+      "id": 3,
+      "title": "People",
+      "singer": "Libianca ft. Becky G",
+      "genre": "R&B",
+      "imgUrl": "/picture/people.jpg",
+      "songUrl": "/Songs/Libianca.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Tere Naina",
+      "singer": "Shafqat Amanat Ali",
+      "genre": "Romantic",
+      "imgUrl": "/picture/tere-naina.jpg",
+      "songUrl": "/Songs/Tere Naina.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Naa Ready",
+      "singer": "Anirudh Ravichander, Vijay, Asal Kolaar",
+      "genre": "Soundtrack",
+      "imgUrl": "/picture/naa-ready.jpg",
+      "songUrl": "/Songs/Naa Ready.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Salaam Aaya",
+      "singer": "Salman Khan, Zarine Khan",
+      "genre": "Bollywood",
+      "imgUrl": "/picture/salaam-aaya.jpg",
+      "songUrl": "/Songs/Salaam Aaya.mp3"
+    },
+    {
+      "id": 7,
+      "title": "Baby You",
+      "singer": "Yuka",
+      "genre": "J-Pop",
+      "imgUrl": "/picture/baby-you.jpg",
+      "songUrl": "/Songs/Baby you.mp3"
+    }
+  ],
+  "favorities": [
+    {
+      "itemId": 1,
+      "title": "Your Eyes",
+      "imgUrl": "/picture/your eyes.jpg",
+      "genre": "Lofi",
+      "songUrl": "/Songs/Your Eyes.mp3",
+      "singer": "Barney sku",
+      "id": 1
+    },
+    {
+      "itemId": 2,
+      "title": "Badass",
+      "imgUrl": "/picture/badass.jpg",
+      "genre": "Rock",
+      "songUrl": "/Songs/Leo - Badass.mp3",
+      "singer": "Anirudh Ravichander",
+      "id": 2
+    },
+    {
+      "itemId": 5,
+      "title": "Naa Ready",
+      "imgUrl": "/picture/naa-ready.jpg",
+      "genre": "Soundtrack",
+      "songUrl": "/Songs/Naa Ready.mp3",
+      "singer": "Anirudh Ravichander, Vijay, Asal Kolaar",
+      "id": 3
+    }
+  ],
+  "playlist": [
+    {
+      "itemId": 1,
+      "title": "Your Eyes",
+      "imgUrl": "/picture/your eyes.jpg",
+      "genre": "Lofi",
+      "songUrl": "/Songs/Your Eyes.mp3",
+      "singer": "Barney sku",
+      "id": 1
+    },
+    {
+      "itemId": 2,
+      "title": "Badass",
+      "imgUrl": "/picture/badass.jpg",
+      "genre": "Rock",
+      "songUrl": "/Songs/Leo - Badass.mp3",
+      "singer": "Anirudh Ravichander",
+      "id": 2
+    },
+    {
+      "itemId": 3,
+      "title": "People",
+      "imgUrl": "/picture/people.jpg",
+      "genre": "R&B",
+      "songUrl": "/Songs/Libianca.mp3",
+      "singer": "Libianca ft. Becky G",
+      "id": 3
+    }
+  ]
+}

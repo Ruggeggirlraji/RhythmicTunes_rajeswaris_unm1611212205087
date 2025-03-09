@@ -1,9 +1,52 @@
-*{
+/* Reset default padding & margin */
+* {
   padding: 0;
   margin: 0;
-  
+  box-sizing: border-box;
 }
-body{
-  background: rgb(103,58,180);
-  background: linear-gradient(90deg, rgba(103,58,180,1) 0%, rgba(29,195,253,1) 54%, rgba(103,58,180,1) 100%);
+
+/* Body Background */
+body {
+  background: linear-gradient(90deg, rgb(118, 25, 152) 0%, rgb(202, 67, 240) 54%, rgb(118, 25, 152) 100%);
+  font-family: 'Arial', sans-serif;
+  color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Main Content Area */
+.main-content {
+  flex-grow: 1;
+  padding: 20px;
+  overflow-y: auto;
+  margin-left: 220px; /* Prevent overlap with sidebar */
+}
+
+/* Centered Headings */
+h1, h2, h3 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Button Styles */
+button {
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+
+button:hover {
+  transform: scale(1.05);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  body {
+    text-align: center;
+  }
+
+  .main-content {
+    padding: 10px;
+    margin-left: 0; /* Adjust for mobile */
+  }
 }
